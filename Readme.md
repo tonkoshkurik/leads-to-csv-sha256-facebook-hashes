@@ -1,4 +1,4 @@
-#Prepare leads hash for facebook custom audience.
+# Prepare leads hashes for facebook custom audience.
 Making sha256 hash from db table
 
 1) clone this repository
