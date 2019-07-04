@@ -1,0 +1,19 @@
+{
+  "name": "Prepare leads csv from database table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leads-hash-facebok.js",
+  "dependencies": {
+    "awesome-phonenumber": "^2.13.0",
+    "dotenv": "^8.0.0",
+    "google-libphonenumber": "^3.2.3",
+    "js-sha256": "^0.9.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
